@@ -2,11 +2,9 @@
 
 A new Flutter project.
 
-## Getting Started
+A simple tic tac toe application
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
+Design gotten from dribble: https://dribbble.com/shots/21208939-Tic-Tac-Toe-UI-Design
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
